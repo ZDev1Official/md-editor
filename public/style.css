@@ -1,0 +1,14 @@
+body{
+  text-align: center;
+  background: lightblue;
+  color: grey;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+#result{
+  word-wrap: break-word;
+  color: black;
+  font-family: sans-serif;
+}
